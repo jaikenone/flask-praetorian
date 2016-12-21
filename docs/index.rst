@@ -6,6 +6,7 @@
 Strong, Simple, and Precise security for Flask APIs
 ---------------------------------------------------
 
+.. image:: helmet.svg
 .. include:: overview.rst
 
 Table of Contents
